@@ -1,13 +1,14 @@
 # Intelligent_Task_Managment_Bot
 
-This Project is a chatbot that acts as an assistant for nurses, which helps them get information from prescriptions
+This Project is a chatbot that acts as an assistant for nurses, helping them obtain information from prescriptions.
 
 ## Tools
-I used Ollama to be able to run LLMs on my local machine without needing high computing power, here I used Qwen model as my base model
+I used Ollama to run LLMs on my local machine without needing high computing power; here, I used Qwen model as my base model.
 
 ## Example
 
-#### First we initialize a new conversation by adding a memory feature to the LLM to save the chat history which will be used to keep the conversation live as much as possible
+#### First we initialize a new conversation by adding a memory feature to the LLM to save the chat history which will be used to keep the conversation live as much as possible.
+#### Here I'm saving each question and answer in a CSV file and then I retrieve them again to be added to the memory.
 
 ![My Image](https://github.com/muhammadayman97/Intelligent_Task_Managment_Bot/blob/main/init.png)
 
