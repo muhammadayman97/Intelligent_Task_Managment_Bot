@@ -1,0 +1,5 @@
+langchain_core
+langchain_community
+pandas
+fastapi
+pydantic
