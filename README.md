@@ -8,7 +8,7 @@ also, I used LangChain to ease the chatting process code, and FastAPI to wrap th
 
 ## API Usage
 ### POST Request
-endpoint: http://127.0.0.1:8000/extract 
+endpoint: http://127.0.0.1:8000/extract <br />
 input: Body-raw-JSON 
 structure: {
                 "question":"<write_your_question_here>"
