@@ -11,7 +11,7 @@ I used Ollama to be able to run a LLMs on my local machine without needing high 
 ![My Image](https://github.com/muhammadayman97/Intelligent_Task_Managment_Bot/blob/main/init.png)
 
 ### Then we can ask any question for the bot as follows
-![My Image](https://raw.githubusercontent.com/muhammadayman97/Arabic-Dialect/main/Screenshot%20(49).png)
+![My Image](https://github.com/muhammadayman97/Intelligent_Task_Managment_Bot/blob/main/ident.png)
 
 ### Now we can send a prescription to the bot to extract information from it
 ![My Image](https://github.com/muhammadayman97/Intelligent_Task_Managment_Bot/blob/main/extract.png)
