@@ -9,15 +9,15 @@ also, I used LangChain to ease the chatting process code, and FastAPI to wrap th
 ## API Usage
 ### POST Request
 endpoint: http://127.0.0.1:8000/extract <br />
-input: Body-raw-JSON 
+input: Body-raw-JSON <br />
 structure: {
                 "question":"<write_your_question_here>"
-            }
+            } <br />
 
 ### GET Request
-endpoint: http://127.0.0.1:8000/new_chat 
-input: no input needed
-output: {"New Chat Initialized"}
+endpoint: http://127.0.0.1:8000/new_chat <br />
+input: no input needed <br />
+output: {"New Chat Initialized"} <br />
 
 
 ## Example
