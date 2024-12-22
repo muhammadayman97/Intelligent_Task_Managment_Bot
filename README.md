@@ -1,6 +1,6 @@
 # Intelligent_Task_Managment_Bot
 
-This Project is a chatbot that acts as an assistant for nurses, helping them obtain information from prescriptions.
+This Project is a chatbot that acts as an assistant for nurses, helping them obtain information and extract medical entities from prescriptions.
 
 ## Tools
 I used Ollama to run LLMs on my local machine without needing high computing power; here, I used Qwen model as my base model.
