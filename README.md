@@ -35,6 +35,6 @@ output: {"New Chat Initialized"} <br />
 
 ![My Image](https://github.com/muhammadayman97/Intelligent_Task_Managment_Bot/blob/main/images/extract.png)
 
-#### Sometimes it fails to get all the information from the first process, so here we asked about specific info and we got the answer as follows
+#### Sometimes it fails to get all the information from the first process, like here we asked about specific info (time of the appointment to be scheduled) and we got the answer as follows
 
 ![My Image](https://github.com/muhammadayman97/Intelligent_Task_Managment_Bot/blob/main/images/extract2.png)
