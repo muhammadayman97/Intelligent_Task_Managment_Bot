@@ -4,6 +4,21 @@ This Project is a chatbot that acts as an assistant for nurses, helping them obt
 
 ## Tools
 I used Ollama to run LLMs on my local machine without needing high computing power; here, I used Qwen model as my base model.
+also, I used LangChain to ease the chatting process code, and FastAPI to wrap the application as an API
+
+## API Usage
+### POST Request
+endpoint: http://127.0.0.1:8000/extract 
+input: Body-raw-JSON 
+structure: {
+                "question":"<write_your_question_here>"
+            }
+
+### GET Request
+endpoint: http://127.0.0.1:8000/new_chat 
+input: no input needed
+output: {"New Chat Initialized"}
+
 
 ## Example
 
